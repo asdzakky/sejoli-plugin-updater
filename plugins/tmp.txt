@@ -1579,3 +1579,33 @@
 [11/Jan/2023 09:02:06] download patch
 [11/Jan/2023 09:02:06] start downloading
 [11/Jan/2023 09:02:15] Complete.
+[16/Jan/2023 02:58:31] setup Updater
+[16/Jan/2023 02:58:31] get version from core file
+[16/Jan/2023 02:58:32] File exist.
+[16/Jan/2023 02:58:32] setup Updater
+[16/Jan/2023 02:58:35] File exist.
+[17/Jan/2023 03:57:29] setup Updater
+[17/Jan/2023 03:57:29] get version from core file
+[17/Jan/2023 03:57:30] File exist.
+[17/Jan/2023 03:57:30] setup Updater
+[17/Jan/2023 03:57:33] File exist.
+[19/Jan/2023 06:44:19] setup Updater
+[19/Jan/2023 06:44:19] get version from core file
+[19/Jan/2023 06:44:20] File exist.
+[19/Jan/2023 06:44:20] setup Updater
+[19/Jan/2023 06:44:22] File exist.
+[22/Jan/2023 06:24:18] setup Updater
+[22/Jan/2023 06:24:18] get version from core file
+[22/Jan/2023 06:24:19] File exist.
+[22/Jan/2023 06:24:19] setup Updater
+[22/Jan/2023 06:24:21] File exist.
+[23/Jan/2023 07:23:11] setup Updater
+[23/Jan/2023 07:23:11] get version from core file
+[23/Jan/2023 07:23:12] File exist.
+[23/Jan/2023 07:23:12] setup Updater
+[23/Jan/2023 07:23:14] File exist.
+[25/Jan/2023 03:57:46] setup Updater
+[25/Jan/2023 03:57:46] get version from core file
+[25/Jan/2023 03:57:47] File exist.
+[25/Jan/2023 03:57:47] setup Updater
+[25/Jan/2023 03:57:49] File exist.
